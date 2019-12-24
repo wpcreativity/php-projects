@@ -1,5 +1,6 @@
 <?php
 header("Pragma: no-cache");
+
 header("Cache-Control: no-cache");
 header("Expires: 0");
   defined('BASEPATH') OR exit('No direct script access allowed');
