@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stripe/stripe-php": "^4.13",
+        "facebook/graph-sdk": "^5.6",
+        "checkmobi/checkmobi-php": "^1.1"
+    }
+}
